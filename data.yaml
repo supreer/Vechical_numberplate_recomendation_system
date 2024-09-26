@@ -1,0 +1,6 @@
+train: C:/Users/supre/Desktop/automatic_number_plate_detection/Automatic-Number-Plate-Recognition--ANPR-/dataset/train/images
+val: C:/Users/supre/Desktop/automatic_number_plate_detection/Automatic-Number-Plate-Recognition--ANPR-/dataset/valid/images
+#test: D:/yolov8_license_plate_recog/1_license_plate_recog/dataset/test/images
+
+nc: 1
+names: ['licence']
